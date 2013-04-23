@@ -1,6 +1,6 @@
-=== Tomahk Shortcodes ===
+=== toma.hk Shortcodes ===
 Contributors: grosbouff
-Tags: Tomahawk, shortcode, toma.hk, music, Spotify, Grooveshark, Soundcloud, Ex.fm
+Tags: Tomahawk, shortcode, toma.hk, music, Spotify, Grooveshark, Soundcloud, Ex.fm, playlists, tracks, albums, streaming
 Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -9,7 +9,7 @@ Use shortcodes to embed playlists, albums and single tracks from toma.hk.
 
 == Description ==
 
-Tomahk shortcodes allows you to embed playlists, albums and single tracks from toma.hk.
+toma.hk shortcodes allows you to embed playlists, albums and single tracks from toma.hk.
 
 = Embed a playlist =
 

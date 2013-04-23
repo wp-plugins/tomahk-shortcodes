@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Tomahk shortcodes
+Plugin Name: Toma.hk shortcodes
 Description: Use shortcodes to embed playlists, albums and single tracks from toma.hk.
 Version: 0.1
 Author: G.Breant
