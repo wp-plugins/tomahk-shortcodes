@@ -25,10 +25,6 @@ class tomahk_shortcodes {
 	 */
 	public $plugin_dir = '';
 
-        
-	/**
-	 * @var Pencil Wiki The one true Pencil Wiki
-	 */
 	private static $instance;
 
 	public static function instance() {
@@ -42,7 +38,7 @@ class tomahk_shortcodes {
 	}
         
 	/**
-	 * A dummy constructor to prevent bbPress from being loaded more than once.
+	 * A dummy constructor to prevent it from being loaded more than once.
 	 *
 	 * @since bbPress (r2464)
 	 * @see bbPress::instance()
@@ -401,9 +397,8 @@ class tomahk_Album {
  * Use this function like you would a global variable, except without needing
  * to declare the global.
  *
- * Example: <?php $pencil_wiki = pencil_wiki(); ?>
  *
- * @return The one true Pencil Wiki Instance
+ * @return The one true Instance
  */
 
 function tomahk_shortcodes() {
