@@ -1,6 +1,6 @@
-=== Tomahk Embed ===
+=== Tomahk Shortcodes ===
 Contributors: G.Breant 
-Tags: Tomahawk, shortcode, toma.hk
+Tags: Tomahawk, shortcode, toma.hk, music, Spotify, Grooveshark, Soundcloud, Ex.fm
 Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -11,7 +11,7 @@ Use shortcodes to embed playlists, albums and single tracks from toma.hk.
 
 Tomahk shortcodes allows you to embed playlists, albums and single tracks from toma.hk.
 
-=== Embed a playlist ===
+= Embed a playlist =
 
 Use this code : [twk-playlist]TOMAHK_PLAYLIST_URL[/twk-playlist] where TOMAHK_PLAYLIST_URL is the url of your playlist (eg.: http://toma.hk/p/R222222M).
 You can also specify several arguments :
@@ -21,7 +21,7 @@ You can also specify several arguments :
 
 Like this : [twk-playlist width="550" height="430"]TOMAHK_PLAYLIST_URL[/twk-playlist]
 
-=== Embed an album ===
+= Embed an album =
 
 Use this code : 
 [twk-album artist="ALBUM ARTIST" title="ALBUM TITLE"][/twk-album]
@@ -36,7 +36,7 @@ You can also specify several arguments :
 * height (the embed height) - default is 430
 * Like this : [twk-album width="550" height="430"]TOMAHK_ALBUM_URL[/twk-album] 
 
-=== Embed a single track ===
+= Embed a single track =
 
 
 Use this code : 
@@ -56,3 +56,21 @@ You can also specify several arguments :
 
 Like this : [twk-album width="200" height="200" autoplay=true disabled_resolvers="Soundcloud,Officialfm"]TOMAHK_ALBUM_URL[/twk-album] 
  
+== Installation ==
+
+Upload the plugin to your blog and Activate it.
+
+== Frequently Asked Questions ==
+
+
+== Screenshots ==
+
+
+== Changelog ==
+
+= 0.1 =
+* First release
+
+== Upgrade Notice ==
+
+== Localization ==
